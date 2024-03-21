@@ -7,7 +7,7 @@ let velocity = 0;
 const gameContainer = document.getElementById('gameContainer');
 let score = 0;
 const scoreDisplay = document.getElementById('score');
-let gameSpeed = 3; // Adjust game speed as needed
+let gameSpeed = 5; // Adjust game speed as needed
 let obstacleHeightRange = [40, 300]; // Adjust obstacle height range
 
 // Add event listener for space bar
